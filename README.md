@@ -10,3 +10,9 @@
    OR
 
    In IIS management console, in the Authentication part of the configuration of your site, modify the "Anonymous authentication" line by selecting "Identity of the application pool" instead of "Specific user".
+
+### If Using Azure AD:
+
+    Turn off Windows Authentication
+  
+    Turn ON Anonymous Authentication
